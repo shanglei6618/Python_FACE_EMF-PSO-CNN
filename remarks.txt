@@ -1,0 +1,5 @@
+
+1. The code compiler is notebook, download Anaconda to install it.
+2. When running EMF code, dlib_face_recognition_resnet_model_v1 and shape_predictor_68_face_landmarks need to be in the same directory as the code.
+3. Video file in MP4 format.
+4.The extracted EMF feature points can be used in PSO-CNN codes after saving them in CSV format. (Refer to the file filename.csv)
